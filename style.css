@@ -177,7 +177,7 @@ h3{
 .textContent1{
   display: flex;
   flex-direction: column;
-  font-size: 2vmin;
+  font-size: 1vw;
   line-height: 3vmin;
   text-align: justify;
   padding-right: 4vmin;
@@ -209,7 +209,7 @@ h3{
 .textContent2{
   display: flex;
   flex-direction: column;
-  font-size: 2vmin;
+  font-size: 1vw;
   line-height: 3vmin;
   text-align: justify;
   padding-right: 4vmin;
